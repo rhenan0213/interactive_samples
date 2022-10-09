@@ -1,4 +1,4 @@
-//Globals
+//GlobalsJS
 var currentTextInput;
 var puzzelArrayData;
 //Loads the Crossword
@@ -44,7 +44,7 @@ function checkClicked(){
 			}
 		}
 	}
-}
+} 
 //Clue Button
 function clueClicked(){
 	if (currentTextInput != null){
